@@ -1,2 +1,2 @@
 # webApps-vuln
-web方面 漏洞复现
+本仓库由 lunasec 创建，用来记录复现 web 应用中存在的漏洞。
